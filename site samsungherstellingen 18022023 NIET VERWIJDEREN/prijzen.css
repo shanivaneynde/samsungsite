@@ -1,0 +1,178 @@
+#container{
+	width:100%;
+}
+ul {
+  list-style-type: none;
+  margin-top: -1vw;
+  overflow: hidden;
+  background-color: #39729B;
+  position:fixed;
+  width:100%;
+}
+
+li {
+  float: left;
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 1.2vw 2vw;
+  text-decoration: none;
+  font-size:1.5vw;
+     font-family:"arial";
+}
+
+#ptekst{
+	font-size:1.2vw;
+	font-family:georgia;
+	color:#39729B;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #306992;
+  color:#E8E8E8;
+
+}
+#facebook{
+	float:right;
+	padding-right:5vw;
+	padding-top:0.5vw;
+}
+#toppage{
+	width:80vw;
+	margin:auto;
+}
+#toppage img{
+	width:60vw;
+	margin-top:6vh;
+	margin-left:20vh;
+}
+#prijzen{
+	width:80vw;
+	font-size:2vw;
+
+}
+#prijzen img{
+	width:100%;
+	padding-left:10vw;
+	color:blue;
+}
+#prijzen a{
+	padding-left:12vw;
+	width:100vw;
+}
+#onderdelen{
+	width:100vw;
+	padding-top:10vh;
+}
+#onderdelen h2{
+	width:40vw;
+	text-align:center;
+	font-family:"calibri";
+	font-size:2vw;
+	padding-left:5vw;
+	padding-top:5vh;
+}
+#onderdelen p{
+	width:35vw;
+	padding-left:7.5vw;
+	text-align:center;	
+}
+#onderdelen img{
+	width:35vw;
+	float:right;
+	margin-top:-25vh;
+	margin-right:15vw;
+}
+
+
+#footer{
+	background-color:#D1E0EB;
+	font-family:"arial";
+	width:100%;
+	height:42vh; 
+	margin-top:30vh;
+
+	
+}
+
+#uren{
+	color:#0C3C60;
+	width:20vw;
+	padding-top:0.2vh;
+	padding-left:12vw;
+
+
+}
+
+#openingsdagen{
+	width:20vw;
+	color:#39729B;
+	padding-left:7vw;
+	padding-top:1vh;
+	float:left
+
+}
+#openingsuren{
+	width:20vw;
+	color:#39729B;
+	margin-left:-8vw;
+	padding-top:1vh;
+	float:left;
+
+}
+#webshop{
+	color:#0C3C60;
+	padding-left:5vw;
+	width:20vw;
+	float:left;
+	margin-top:-8vh;
+	
+}
+#contact{
+	float:left;
+	margin-top:5vh;
+	margin-left:-25.5vw;
+	color:#39729B;
+	width:20vw;
+	text-align:center;
+	
+	
+}
+#contact h2{
+	color:#0C3C60;
+}
+#facebook2{
+	float:left;
+	width:30vw;
+	
+}
+#facebook2 h2{
+	margin-top:-6vh;
+		color:#0C3C60;
+
+}
+#facebookfreestyle{
+	float:left;
+	padding-left:4vw;
+}
+
+#facebookherstellingen{
+	float:left;
+	padding-top:3vh;
+	padding-left:4vw;
+}
+
+#vraag{
+	font-size:1.2vw;
+	font-family:georgia;
+	color:#565656;
+	font-weight:bold;
+	text-align:left;
+	width:40vw;
+	margin-left:12vw;
+}

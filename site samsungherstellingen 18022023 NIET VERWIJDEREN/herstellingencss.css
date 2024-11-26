@@ -1,0 +1,209 @@
+
+#container{
+		width:100%;
+}
+ul {
+  list-style-type: none;
+  margin-top: -2.35vw;
+  overflow: hidden;
+  background-color: #39729B;
+  position:fixed;
+  width:100%;
+}
+
+li {
+  float: left;
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 1.2vw 2vw;
+  text-decoration: none;
+  font-size:1.5vw;
+     font-family:"arial";
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #306992;
+  color:#E8E8E8;
+
+}
+
+#facebook{
+	float:right;
+	padding-right:5vw;
+	padding-top:0.5vw;
+}
+
+
+ #boven {
+		width:80vw;
+		padding-left:12vw;
+		padding-top:0vh;
+		text-align:center;
+ }
+#boven h1{
+	
+	font-family:calibri;
+	font-size:3vw;
+	text-align: center;
+	width:20vw;
+	margin-left:23vw;
+	padding-top:5vw;
+	
+}
+ 
+#eerstetekst {
+	width:25vw;
+	font-size:1.5vw;
+	text-align: center;
+	float:left;
+}
+#eerstetekst p {
+	font-size:1.15vw;
+	font-family:calibri;
+	font-weight:bold;
+}
+
+.nietprijs {
+	padding-top:0.3vw;
+	font-size:1.5vw;
+}
+
+.prijs {
+	padding-top:0vw;
+	font-size:5vw;	
+}
+
+
+#compherst {
+	width:35vw;
+	margin-top:4vh;
+	
+}
+
+#tweedetekst {
+	color:#39729B;
+	padding-top:10vh;
+	font-size:1.4vw;
+	width:50vw;
+	margin:auto;
+	
+}
+
+#laptop {
+		width:25vw;
+		float:left;
+}
+
+#koptekst1{
+	padding-top:5vw;
+	width:90vw;
+	text-align: center;
+	margin:auto;
+	
+}
+
+#beneden {
+	width:55vw;
+	margin:auto;
+	padding-top:5vh;
+}
+
+#benedentekst {
+	width:25vw;
+	float:left;
+	margin-left:5vw;
+	color:#39729B;
+	margin-bottom:30vh;
+	font-size:1.5vw;
+}
+
+#koptekst1{
+	font-family:calibri;
+	font-size:2.5vw;
+	margin-left:18vw;
+	margin-top:7.5vh;
+}
+
+footer{
+	background-color:#D1E0EB;
+	font-family:"arial";
+	width:100%;
+	height:42vh; 
+	margin-top:65vh;
+	
+	
+}
+
+#uren{
+	color:#0C3C60;
+	width:20vw;
+	padding-top:0.2vh;
+	padding-left:12vw;
+	margin-left:5vw;
+
+}
+
+#openingsdagen{
+	width:20vw;
+	color:#39729B;
+	padding-left:7vw;
+	padding-top:1vh;
+	float:left
+
+}
+#openingsuren{
+	width:20vw;
+	color:#39729B;
+	margin-left:-8vw;
+	padding-top:1vh;
+	float:left;
+
+}
+#webshop{
+	color:#0C3C60;
+	padding-left:5vw;
+	width:20vw;
+	float:left;
+	margin-top:-8vh;
+	
+}
+#contact{
+	float:left;
+	margin-top:5vh;
+	margin-left:-25.5vw;
+	color:#39729B;
+	width:20vw;
+	text-align:center;
+	
+	
+}
+#contact h2{
+	color:#0C3C60;
+}
+#facebook2{
+	float:left;
+	width:30vw;
+	
+}
+#facebook2 h2{
+	margin-top:-6vh;
+		color:#0C3C60;
+
+}
+#facebookfreestyle{
+	float:left;
+	padding-left:4vw;
+}
+
+#facebookherstellingen{
+	float:left;
+	padding-top:3vh;
+		padding-left:4vw;
+}
+
