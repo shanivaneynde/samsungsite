@@ -1,0 +1,201 @@
+#container{
+	width:100%;
+}
+ul {
+  list-style-type: none;
+  margin-top: -1vw;
+  overflow: hidden;
+  background-color: #39729B;
+  position:fixed;
+  width:100%;
+}
+
+li {
+  float: left;
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 1.2vw 2vw;
+  text-decoration: none;
+  font-size:1.5vw;
+     font-family:"arial";
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #306992;
+  color:#E8E8E8;
+
+}
+#facebook{
+	float:right;
+	padding-right:5vw;
+	padding-top:0.5vw;
+}
+#afbeeldingblok{
+	width:100%;
+}
+#afbeeldingblok img{
+	width:100vw;
+}
+
+#blocks{
+	width:100%;
+	
+}
+#blocks img{
+	width:85vw;
+	padding-left:6.5vw;
+
+}
+#bluecontainer{
+	width:100%;
+	background-color:#D1E0EB;
+}
+
+#maps{
+	width:40vw;
+	height:30vw;
+	padding-top:3vw;
+	padding-left:3vw;
+}
+#bereikbaar{
+	width:20vw;
+	float: right;
+	text-align:center;
+	padding-right:14vw;
+	padding-top:5vw;
+	font-family:arial;
+}
+#bereikbaar h2{
+	font-size:2vw;
+}
+#bereikbaar p{
+	font-size:1.5vw;
+	color:#39729B;
+}
+#route{
+	font-size:2vw;
+}
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */  
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
+  font-family:"arial";
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #39729B;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family:"arial";
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #0C3C60;
+}
+
+/* Add a background color and some padding around the form */
+.formulier {
+  border-radius: 5px;
+  color:#0C3C60;
+  padding: 20px;
+  font-family:"arial";
+}
+#klanten{
+	width:100%;
+}
+#klanten img{
+	width:99vw;
+}
+footer{
+	background-color:#D1E0EB;
+	font-family:"arial";
+	width:100%;
+	height:42vh; 
+	margin-bottom:0vh;
+	
+	
+}
+
+#uren{
+	color:#0C3C60;
+	width:20vw;
+	padding-top:0.2vh;
+	padding-left:12vw;
+	font-size:1.5vw;
+
+}
+
+#openingsdagen{
+	width:20vw;
+	color:#39729B;
+	padding-left:7vw;
+	padding-top:1vh;
+	float:left;
+
+}
+#openingsuren{
+	width:20vw;
+	color:#39729B;
+	margin-left:-8vw;
+	padding-top:1vh;
+	float:left;
+
+}
+#webshop{
+	color:#0C3C60;
+	padding-left:5vw;
+	width:20vw;
+	float:left;
+	margin-top:-8vh;
+	
+}
+#contact{
+	float:left;
+	margin-top:5vh;
+	margin-left:-25.5vw;
+	color:#39729B;
+	width:20vw;
+	text-align:center;
+	
+	
+}
+#contact h2{
+	color:#0C3C60;
+}
+#facebook2{
+	float:left;
+	width:30vw;
+	
+}
+#facebook2 h2{
+	margin-top:-6vh;
+		color:#0C3C60;
+
+}
+#facebookfreestyle{
+	float:left;
+	padding-left:4vw;
+}
+
+#facebookherstellingen{
+	float:left;
+	padding-top:3vh;
+		padding-left:4vw;
+}
